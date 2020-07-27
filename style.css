@@ -10,11 +10,7 @@
 
 nav {
     width: 100%;
-}
-
-.left li, .right li {
     display: inline-block;
-    padding: 16px 16px 0 16px;
 }
 
 #apps {
