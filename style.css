@@ -19,7 +19,7 @@ nav {
 ul {
     list-style: none;
     margin: 0;
-    padding: 0;
+    padding: 0 30px;
     font-size: 13px;
 }
 
@@ -47,6 +47,8 @@ li a:hover {
 #profile {
     height: 32px;
     border-radius: 50%;
+    position: relative;
+    bottom: 8px;
 }
 
 .right {
